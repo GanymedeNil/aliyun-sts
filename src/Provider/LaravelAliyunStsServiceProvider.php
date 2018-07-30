@@ -1,5 +1,5 @@
 <?php
-namespace GanymedeNil\Aliyun\Sts\Provider;
+namespace ganymedenil\Aliyun\Sts\Provider;
 
 class LaravelAliyunStsServiceProvider extends AliyunStsServiceProvider
 {

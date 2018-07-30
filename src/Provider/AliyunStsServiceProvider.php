@@ -1,5 +1,5 @@
 <?php
-namespace GanymedeNil\Aliyun\Sts\Provider;
+namespace ganymedenil\Aliyun\Sts\Provider;
 
 use RuntimeException;
 use Illuminate\Support\ServiceProvider;

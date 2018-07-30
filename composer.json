@@ -1,5 +1,5 @@
 {
-    "name": "GanymedeNil/aliyun-sts",
+    "name": "ganymedenil/aliyun-sts",
     "description": "Aliyun-STS SDK",
     "keywords": ["aliyun", "sts", "oss"],
     "homepage": "http://github.com/GanymedeNil/aliyun-sts",
@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "GanymedeNil\\Aliyun\\Sts\\": "src",
+            "ganymedenil\\Aliyun\\Sts\\": "src",
             "Sts\\": "src/sdk"
         }
     },
